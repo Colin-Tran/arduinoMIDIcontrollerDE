@@ -1,1 +1,1 @@
-# arduinoMIDIcontrollerDE
+# Arduino MIDI Controller Project
