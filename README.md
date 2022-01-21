@@ -83,6 +83,9 @@ First off we had to prepare all our components so that they would be ready for a
 2. Soldering Jumper Wires to the PCB
 3. Soldering Potentiometer Wires
 
+![](https://i.postimg.cc/FRpvxRRw/Circuit-Diagram-Final-Project.png)
+
+Circuit Diagram
 
 Once we soldered most of the components I was able to actually move onto connecting the different components together into the Arduino so then we can actually control them.
 Now we had to move onto controlling software and integrating our circuit into our code so we can test and troubleshoot.
