@@ -6,6 +6,7 @@
 
 Final Product
 
+
 Hello! My name is Colin Tran and for my Digital Electronics Final Project, I decided I wanted to create a programmable MIDI controller. If you don't know, a MIDI controller is 
 basically a macropad (keypad for certain commands/controls on a computer) but it is instead used specifically for music programs and for music creation/development. It's 
 intended and base function is to be able to control different sounds and controls within a music program to help with music creation. MIDI Controllers can get pretty pricey and 
@@ -24,14 +25,21 @@ safe and go with parts from a big manufacture like Adafruit. After some time spe
 from the 'Mini Untztrument' a guide with which I modeled my MIDI Controller after. Some of the parts within the list included:
 
 1 4x4 Adafruit Trellis Monochrome Driver - PCB For Project
+
 1 Silicone Elastomer 4x4 button keypad - For Button Functionality
+
 1 Arduino Leonardo - To input code
+
 4 10k Potentiometers - Functionality for Dials
-16x 3mm LEDs - Decoration and Testin
+
+16x 3mm LEDs - Decoration and Testing
+
 Premium Male Jumper Wires - Connection
+
 14 #6-32 1/2' Flat Phillip Screws - To Put together Housing
 
 Now that I had my parts I was almost ready to being the manufacturing process.
+
 
 ### CAD 
 
