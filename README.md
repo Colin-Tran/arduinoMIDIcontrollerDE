@@ -4,7 +4,7 @@
 
 ![](https://i.postimg.cc/4N6P7H3Q/IMG-7777.jpg)
 
-Final Product
+Product! - Midi Controller
 
 
 Hello! My name is Colin Tran and for my Digital Electronics Final Project, I decided I wanted to create a programmable MIDI controller. If you don't know, a MIDI controller is 
